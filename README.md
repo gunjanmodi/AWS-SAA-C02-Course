@@ -1476,7 +1476,7 @@ Objects in S3 are stored in a specific region.
 - Default AWS storage class that's used in S3, should be user default as well.
 - S3 Standard is region resilient, and can tolerate the failure of an AZ.
 - Objects are replicated to at least 3+ AZs when they are uploaded.
-- 99999999999% durability
+- 99.999999999% durability
 - 99.99% availability
 - Offers low latency and high throughput.
 - No minimums, delays, or penalties.
